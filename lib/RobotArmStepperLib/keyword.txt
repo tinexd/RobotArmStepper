@@ -1,0 +1,16 @@
+move_motor                                               KEYWORD2
+homing                                                   KEYWORD2
+move_xM                                                  KEYWORD2
+move_yM                                                  KEYWORD2
+move_zM                                                  KEYWORD2
+calculate_angle_alpha_in_triangle_with_point             KEYWORD2
+calculate_angle_beta_in_triangle_with_point              KEYWORD2
+calculate_angle_alpha_in_triangle_with_distance          KEYWORD2
+calculate_angle_beta_in_triangle_with_distance           KEYWORD2
+calculate_point_B_y_in_triangle                          KEYWORD2
+calculate_point_B_z_in_triangle                          KEYWORD2
+move_straight_to_point                                   KEYWORD2
+calculate_angle_phi                                      KEYWORD2
+calculate_x_part_of_new_offset_vector                    KEYWORD2
+calculate_y_part_of_new_offset_vector                    KEYWORD2
+calculate_distance_from_offset_to_target                 KEYWORD2  
